@@ -1,6 +1,6 @@
-# data_science_portfolio
+# Data Science Project Portfolio
 
-Text text description/explain text text
+This is my project portfolio because...
 
 | Project | Date | Description|
 |---------|------|------------|
