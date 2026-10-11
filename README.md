@@ -3,12 +3,12 @@
 Data science graduate student focused on turning messy real-world data into clear, actionable insights.
 
 ## About
-tbd
+Leo is experienced in agile methodologies, software development, process engineering, product development, and innovation.  He enjoys utilizing his diverse background and competence to solve business problems. In addition, he speaks three languages: Business, IT, and Spanglish.  
 
 ## Skills/Tools
 - Languages: Python, SQL
-- Libraries: pandas, scikit-learn, matplotlib
-- Platforms: Spark, Hadoop, cloud
+- Libraries: pandas, NumPy, scikit-learn, matplotlib, seaborn
+- Platforms: Jupyter, Git, Spark, Hadoop, cloud
 
 ## Work/Projects:
 
@@ -26,6 +26,5 @@ tbd
 | DSC680 Project 2 | Nov 2026 | Description |
 
 ## Contact
-email
-linkedin
-resume pdf?
+[LinkedIn](https://www.linkedin.com/in/leoluera/)
+
