@@ -11,6 +11,6 @@ This is my project portfolio because...
 | [TikTok car theft epidemic](https://github.com/cincodemarcho/tiktok_car_thefts) | April 2026 | Description |
 | [TSA Complaints](https://github.com/cincodemarcho/tsa_complaints) | May 2026 | Description |
 | [The childcare affordability crisis](https://github.com/cincodemarcho/childcare_affordability_crisis) | May 2026 | Description |
-| [Big Data architecture](https://github.com/cincodemarcho/big_data_architecture) | Aug 2026 | Description |
+| [Big Data architecture](https://github.com/cincodemarcho/dsc650-final-project) | Aug 2026 | Description |
 | [Predicting NBA player injury risk from in-season workload patters](https://github.com/cincodemarcho/dsc680-project1) | Oct 2026 | Description |
 | DSC680 Project 2 | Nov 2026 | Description |
