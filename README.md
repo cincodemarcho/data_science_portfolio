@@ -23,7 +23,7 @@ Leo is experienced in agile methodologies, software development, process enginee
 | [The childcare affordability crisis](https://github.com/cincodemarcho/childcare_affordability_crisis) | May 2026 | Description |
 | [Big Data architecture](https://github.com/cincodemarcho/dsc650-final-project) | Aug 2026 | Description |
 | [Predicting NBA player injury risk from in-season workload patterns](https://github.com/cincodemarcho/dsc680-project1) | Oct 2026 | Description |
-| DSC680 Project 2 | Nov 2026 | Description |
+| Coming soon | Nov 2026 | Description |
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/leoluera/)
