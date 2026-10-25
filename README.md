@@ -1,16 +1,14 @@
-# Data Science Project Portfolio
-
-Data science graduate student focused on turning messy real-world data into clear, actionable insights.
+# Leo L. | Data Science Project Portfolio
 
 ## About
 Leo is experienced in agile methodologies, software development, process engineering, product development, and innovation.  He enjoys utilizing his diverse background and competence to solve business problems. In addition, he speaks three languages: Business, IT, and Spanglish.  
 
 ## Skills/Tools
-- Languages: Python, SQL
-- Libraries: pandas, NumPy, scikit-learn, matplotlib, seaborn
-- Platforms: Jupyter, Git, Spark, Hadoop, cloud
+- **Languages:** Python, SQL
+- **Libraries:** pandas, NumPy, scikit-learn, matplotlib, seaborn
+- **Platforms:** Jupyter, Git, Spark, Hadoop, Google cloud
 
-## Work/Projects:
+## Projects
 
 | Project | Date | Description|
 |---------|------|------------|
