@@ -10,6 +10,12 @@ Leo is experienced in agile methodologies, software development, process enginee
 
 ## Projects
 
+The projects below come from my MS in Data Science (Bellevue University) program and are listed in the order I completed them, so the table doubles as a record of how my skills have grown.
+
+I started with **exploratory analysis**: summarizing data, visualizing distributions, and testing hypotheses. Next came the less glamorous but essential work of **cleaning and combining messy data** from flat files, websites, and APIs into one usable dataset. From there I moved into **machine learning**, building regression and classification models and learning to choose metrics that fit the business problem instead of defaulting to accuracy. Along the way I focused on **communicating results**, turning analyses into data stories, interactive Tableau dashboards, and presentations tailored to specific audiences. My most recent work brings these skills together at a larger scale, with an **end-to-end big data pipeline** in the cloud and a predictive model built to avoid data leakage by using only information available before each game.
+
+One lesson runs through all of it: an honest result is worth more than an impressive one. Several of these projects found weaker relationships than I expected, and I've learned to explain why, identify what the data is missing, and lay out what I'd try next.
+
 | Project | Date | Description |
 |---------|------|-------------|
 | [Electric Vehicle Charging EDA](https://github.com/cincodemarcho/ev_charging) | March 2025 | Explored 1,000 EV charging sessions and found that no single factor (state of charge, charging cycles, current, or fast vs. slow mode) meaningfully explains charging time. Near-uniform distributions suggested a likely synthetic dataset missing key drivers like battery capacity. |
