@@ -27,7 +27,7 @@ One lesson runs through all of it: an honest result is worth more than an impres
 | [The childcare affordability crisis](https://github.com/cincodemarcho/childcare_affordability_crisis) | May 2026 | Analyzed county-level childcare prices and found infant care rose to 16.1% of household income by 2018, more than double the federal affordability benchmark, in 99.8% of counties with data. Told through a presentation, infographic, and Tableau dashboard, each tailored to a different audience. |
 | [Big Data architecture](https://github.com/cincodemarcho/dsc650-final-project) | Aug 2026 | Built an end-to-end pipeline on Google Cloud and Docker that moves web-traffic data through NiFi, HDFS, Hive, Spark MLlib on YARN, and HBase. A K-Means model grouped suspicious traffic into three distinct clusters (silhouette score 0.99), with record counts verified at every stage. |
 | [Predicting NBA player injury risk from in-season workload patterns](https://github.com/cincodemarcho/dsc680-project1) | Oct 2026 | Predicted whether players will be injured within 7 days using only pre-game workload data and a season-based train/test split. Workload showed a real but weak signal (0.59 ROC-AUC), independently supporting the NBA's own finding that schedule density has little link to injury. |
-| Coming soon | Nov 2026 | DSC 680 Project 2 |
+| Predicting TV series renewal vs cancellation | Nov 2026 | DSC 680 Project 2 |
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/leoluera/)
