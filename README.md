@@ -3,11 +3,11 @@
 ## About
 Leo is experienced in agile methodologies, software development, process engineering, product development, and innovation.  He enjoys utilizing his diverse background and competence to solve business problems. In addition, he speaks three languages: Business, IT, and Spanglish.  
 
-## Skills/Tools
+## Skills/Tools 
 - **Languages:** Python, SQL
 - **Libraries:** pandas, NumPy, scikit-learn, matplotlib, seaborn
 - **Visualization:** Tableau, matplotlib, seaborn
-- **Platforms:** Jupyter, Git, Spark, Hadoop, Google cloud
+- **Platforms:** Jupyter, Git, Google Cloud, Docker, Hadoop, Hive, Spark, HBase, NiFi
 
 ## Projects
 
